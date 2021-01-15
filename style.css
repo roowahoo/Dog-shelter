@@ -1,0 +1,32 @@
+body{
+  background-color:rgb(214, 142, 33);
+}
+
+.paw{
+  font-size:50px;
+  margin-right:20px;
+}
+
+main{
+  background-image:url('../images/blackpedigree.jpg');
+  background-attachment: fixed;
+  background-size:cover;
+  background-repeat:no-repeat;
+  height:120vh;
+  background-position:100% 30% ;
+  color:white;
+}
+
+.bg-2{
+  background-image:url('../images/whitegr.jpg');
+  background-attachment: fixed;
+  background-size:cover;
+  background-repeat:no-repeat;
+  height:120vh;
+  background-position:100% 35%;
+  color:black;
+}
+
+.intro div{
+  color:white;
+}
